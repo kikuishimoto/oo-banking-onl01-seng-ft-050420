@@ -18,7 +18,7 @@ class Transfer
       @receiver.balance += @amount
       @sender.balance -= @amount
     
-      
+
   end
   # your code here
 end
